@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="recycler_contentDescription">This recyclerView shows pokemons</string>
+    <string name="image_contentDescription">This imageView displays the image of a pokemon</string>
+</resources>
