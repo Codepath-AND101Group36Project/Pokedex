@@ -5,7 +5,7 @@ Submitted by:
 - **Damar Sherwood**
 Time spent: **8** hours spent in total
 ## Summary
-With just a tap, generate information about five random Pokémon, adding an element of surprise to your journey. Delve into detailed stats. The user-friendly interface ensures seamless navigation, while the app's offline access lets you enjoy its features anytime, anywhere. Need to tidy up your collection? No worries—PokéGen Plus allows you to effortlessly delete existing data.
+With just a tap, generate information about five random Pokémon, adding an element of surprise to your journey. Delve into detailed stats. The user-friendly interface ensures seamless navigation, while the app's offline access lets you enjoy its features anytime, anywhere. Need to tidy up your collection? No worries—PokeDex allows you to effortlessly delete existing data.
 ## Milestone Requirements
 The following REQUIRED features are completed:
 - [X] Assign features to each member of your group
