@@ -12,11 +12,9 @@
 ### Description 
 
 **Description of your app**
+**Allows users to generate random pokemon list of 5 (Delete all data in one click if they want)**
 
 ### App Evaluation
-
-**Allows users to search pokemon by their pokedex number and get information about specific pokemon.**
-
 - **Category:** Gaming/Research
 - **Mobile:** It allows users to quickly generate random list of pokemons instead of having to login to a website each time.
 - **Story:** Makes life more convenient for users
