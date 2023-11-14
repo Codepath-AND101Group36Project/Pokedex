@@ -1,81 +1,35 @@
-# Pokedex
-# **APP_NAME_HERE**
-
-## Table of Contents
-
-1. [App Overview](#App-Overview)
-1. [Product Spec](#Product-Spec)
-1. [Wireframes](#Wireframes)
-1. [Build Notes](#Build-Notes)
-
-## App Overview
-
-### Description 
-
-**Description of your app**
-
-### App Evaluation
-
-<!-- Evaluation of your app across the following attributes -->
-
-- **Category:**
-- **Mobile:**
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
-
-## Product Spec
-
-### 1. User Features (Required and Optional)
-
-Required Features:
-
-- **fill in here**
-- ...
-
-Stretch Features:
-
-- **fill in here**
-- ...
-
-### 2. Chosen API(s)
-
-- **list first API endpoint here**
-  - **list associated required feature here**
-  - ...
-- ...
-
-### 3. User Interaction
-
-Required Feature
-
-- **list first user action here**
-  - => **list result of user action here**
-  - ...
-- **list second user action here**
-  - => **list result of user action here**
-  - ...
-
-## Wireframes
-
-<!-- Add picture of your hand sketched wireframes in this section -->
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
-
-### [BONUS] Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
-
-## Build Notes
-
-Here's a place for any other notes on the app, it's creation 
-process, or what you learned this unit!  
-
-For Milestone 2, include **2+ Videos/GIFs** of the build process here!
+# AND101 Milestone 2 - **Pod-36**
+Submitted by:
+- **Gabriel Koomson**
+- **Vinh Nguyễn Thế**
+- **Damar Sherwood**
+Time spent: **8** hours spent in total
+## Summary
+With just a tap, generate information about five random Pokémon, adding an element of surprise to your journey. Delve into detailed stats. The user-friendly interface ensures seamless navigation, while the app's offline access lets you enjoy its features anytime, anywhere. Need to tidy up your collection? No worries—PokéGen Plus allows you to effortlessly delete existing data.
+## Milestone Requirements
+The following REQUIRED features are completed:
+- [X] Assign features to each member of your group
+- [X] Establish a goal time for completing each feature
+The following REQUIRED files are included:
+- [X] Updated :page_facing_up: `project_spec.md`, which contains:
+  - [X] App Overview (Milestone 1)
+  - [X] App Spec (Milestone 1)
+  - [X] Checked off 2+ completed features
+  - [X] 2+ Videos/GIFs of build progress
+- [X] Our :movie_camera: Demo Video
+  - [X] We have also added the Demo Video Link to the Group Info Form on the course portal.
+The following EXTRA features are implemented:
+- [ ] List anything else that you added to improve your submission!
+## :movie_camera: Demo Video
+Here's a video that demos all of the app's implemented features:
+[Imgur](https://i.imgur.com/of2JglQ.gifv)
+VIDEO created with **ScreenToGif**
+## Notes
+Here's a place for any other notes on this milestone!
 
 ## License
 
-Copyright **yyyy** **your name**
+Copyright **2023** **Vinh Nguyen**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
