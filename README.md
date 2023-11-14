@@ -22,7 +22,7 @@ The following EXTRA features are implemented:
 - [ ] List anything else that you added to improve your submission!
 ## :movie_camera: Demo Video
 Here's a video that demos all of the app's implemented features:
-<img src="https://i.imgur.com/poZ3Ay6.gif" width=600>
+[![IMAGE_ALT](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/5AjE5jfBhOw)
 VIDEO created with **ScreenToGif**
 ## Notes
 Here's a place for any other notes on this milestone!
