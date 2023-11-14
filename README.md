@@ -25,7 +25,7 @@ Here's a video that demos all of the app's implemented features:
 [![IMAGE_ALT](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/5AjE5jfBhOw)
 VIDEO created with **ScreenToGif**
 ## Notes
-Here's a place for any other notes on this milestone!
+Here is our project_spec.md link in HackMD: https://hackmd.io/@2SulHyQZQOKTsfXByL8dDA/HkloNkZVp
 
 ## License
 
